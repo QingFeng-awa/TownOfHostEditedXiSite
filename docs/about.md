@@ -14,3 +14,9 @@ TOHEX,为继承TOHE而衍生的分支。
 至此,属于国人之光时代的TOHE结束了。
 
 在此之后,曾经的TOHE贡献者**是喜诶**创建了TownOfHosEditedXi(TOHEX),以此来延续TOHE曾经的辉煌。
+
+## TOHEX开发组成员
+- 是喜诶 - 开发者
+- Night_瓜 - 开发者
+- Slok7565 - 开发者&翻译
+- Zeyan - 开发者&翻译

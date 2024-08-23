@@ -2,6 +2,7 @@
 home: true
 title: 首页
 heroImage: /TOHEX-BG.jpg
+externalLinkIcon: false
 actions:
   - text: 关于
     link: /about
@@ -11,8 +12,8 @@ actions:
     link: /download
     type: primary
 
-  - text: 公告
-    link: /news
+  - text: 档案
+    link: https://aumod.site/HostOnly/TownOfHostEditedXi
     type: secondary
 
 footer:  Copyright © 2023 TEAM-TONEX<br>Powered by <a href="https://qingfengawa.me" target="_blank">QingFeng</a>
