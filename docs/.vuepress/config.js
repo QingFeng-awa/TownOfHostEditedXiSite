@@ -29,8 +29,7 @@ export default defineUserConfig({
     navbar: [
       { text: "首页", link: "/"},
       { text: "关于", link: "/about"},
-      { text: "下载", link: "/download"},
-      { text: "公告", link: "/news"}
+      { text: "下载", link: "/download"}
     ],
     locales: {
       "/": {
