@@ -10,4 +10,4 @@ title: 下载模组
 为了更好的为您提供服务,自2024年9月28日起,我们将下载服务迁移至[极致网盘](https://pan.xtreme.net.cn)。
 :::
 
-- [通过极致网盘下载](https://pan.xtreme.net.cn/s/k5h6),密码:`bbcz38`
+- [通过极致网盘下载](https://pan.xtreme.net.cn/s/l5i5),密码:`8lkdke`
