@@ -3,11 +3,6 @@ title: 下载模组
 ---
 # 下载TONEX
 
-- 当前TOHEX版本: v2.0.5
-- 兼容Among Us版本: v2023.10.24
+为了更方便的管理,我们已将文件下载服务合并至[Among Us模组档案](https://aumod.site)。
 
-::: important 下载服务迁移
-为了更好的为您提供服务,自2024年9月28日起,我们将下载服务迁移至[极致网盘](https://pan.xtreme.net.cn)。
-:::
-
-- [通过极致网盘下载](https://pan.xtreme.net.cn/s/l5i5),密码:`8lkdke`
+请[点击此处](https://aumod.site/archives/TownOfHostEditedXi205)以访问最新版本的TOHEX下载页。
