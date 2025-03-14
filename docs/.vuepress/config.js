@@ -3,27 +3,27 @@ import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
-  lang: 'zh-CN'，
-  head: [['link'， { rel: 'shortcut icon'， href: '/favicon.png' }]]，
-  title: 'TOHEX官方网站'，
-  description: '为继承TOHE而衍生的分支'，
+  lang: 'zh-CN',
+  head: [['link', { rel: 'shortcut icon', href: '/favicon.png' }]],
+  title: 'TOHEX官方网站',
+  description: '为继承TOHE而衍生的分支',
   theme: defaultTheme({
-    lastUpdated: false，
-    contributors: false，
-    editlink: false，
-    logo: '/TOHEX.png'，
+    lastUpdated: false,
+    contributors: false,
+    editlink: false,
+    logo: '/TOHEX.png',
     navbar: [
-      { text: "首页"， link: "/"}，
-      { text: "关于"， link: "/about"}，
-    ]，
+      { text: "首页", link: "/"},
+      { text: "关于", link: "/about"},
+    ],
     locales: {
       "/": {
-        notFound: ["404NotFound - 页面未找到"]，
-        backToHome: "返回首页"，
-        toggleColorMode: "切换颜色模式"，
+        notFound: ["404NotFound - 页面未找到"],
+        backToHome: "返回首页",
+        toggleColorMode: "切换颜色模式",
         toggleSidebar: "打开导航栏"
       }
     }
-  })，
-  bundler: viteBundler()，
+  }),
+  bundler: viteBundler(),
 })
