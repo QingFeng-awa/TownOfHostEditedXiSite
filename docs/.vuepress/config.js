@@ -1,7 +1,6 @@
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
-import { noticePlugin } from '@vuepress/plugin-notice'
 
 export 默认 defineUserConfig({
   lang: 'zh-CN'，
@@ -15,7 +14,7 @@ export 默认 defineUserConfig({
     logo: '/TOHEX.png'，
     navbar: [
       { text: "首页"， link: "/"}，
-      { text: "关于"， link: "/about"}
+      { text: "关于"， link: "/about"}，
     ]，
     locales: {
       "/": {
