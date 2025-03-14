@@ -2,14 +2,14 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 
-export 默认 defineUserConfig({
+export default defineUserConfig({
   lang: 'zh-CN'，
   head: [['link'， { rel: 'shortcut icon'， href: '/favicon.png' }]]，
   title: 'TOHEX官方网站'，
   description: '为继承TOHE而衍生的分支'，
   theme: defaultTheme({
     lastUpdated: false，
-    贡献者: false，
+    contributors: false，
     editlink: false，
     logo: '/TOHEX.png'，
     navbar: [
